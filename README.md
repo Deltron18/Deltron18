@@ -88,8 +88,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deltron18&theme=radical&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Deltron18&theme=onedark&no-bg=true&margin-w=10" />
 </p>
+
+
+
+
 
 ---
 
