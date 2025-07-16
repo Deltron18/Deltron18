@@ -78,7 +78,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deltron18&show_icons=true&theme=radical" alt="Deltron18 stats" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=Deltron18&theme=radical&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Deltron18&theme=radical&hide_border=false" />
+
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deltron18&layout=compact&theme=radical" />
 </p>
